@@ -1,3 +1,7 @@
+*.cb
+*.cb2
+*.sln
+
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
